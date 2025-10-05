@@ -35,7 +35,7 @@
 
 ## 2. Functional Requirements  
 
-زي ما حددت بالضبط في البداية 👇  
+زي ما حددت بالضبط في البداية   
 
 - SaaS Platform — Multi-Tenant  
 - Virtual Call Center  
